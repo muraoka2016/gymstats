@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806873281630",
+    "project_id": "gymstats-b7dd6",
+    "storage_bucket": "gymstats-b7dd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806873281630:android:dd12b8d1cebeae9a4130cf",
+        "android_client_info": {
+          "package_name": "Gym.stats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkFUKpObNGizEopcUcuSkPJiT102h_GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
